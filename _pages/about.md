@@ -20,7 +20,7 @@ I'm a first year PhD student in Penn State's college of IST, advised by <a href=
 
 <h3>Bio</h3>
 
- In my senior year, I researched the ability of Large Language Models to work with code-mixed inputs. As a DAAD-RISE scholar under Dr. Heiko Hamann and Eduard Buss, I contributed to bio-hybrid systems research by converting Ivy plants into sensors for environmental monitoring, applying machine learning and time-series analysis. During my sophomore year, I interned at Legal Fundi, a South African firm providing legal aid to disadvantaged communities, where I developed a ChatBot using NLP and Google Firebase.<br>
+ In my senior year, I researched the ability of Large Language Models to work with code-mixed inputs. As a DAAD-RISE scholar under Dr. Heiko Hamann and Eduard Buss, I contributed to bio-hybrid systems research by converting Ivy plants into sensors for environmental monitoring, applying machine learning and time-series analysis. During my sophomore year, I interned as a web developer at Legal Fundi, a South African firm providing free legal resources to communities in need.<br>
  <br>
  I served as the Vice President and Head Operating Director for <a href="https://www.tedxpsu.com/">TEDxPSU </a> . an organisation which provides a stage for local communities to share their stories for the common good. Along with that, I was a camp counsellor for <a href="https://www.kesem.org/"> Kesem Central PA </a>, fundraising for children who have been affected by their parents cancer. 
 
