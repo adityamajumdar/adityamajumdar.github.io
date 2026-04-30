@@ -2,9 +2,9 @@
 layout: page
 title: "Why AI Built to Help Gets Shelved"
 description: "A blog post on the structural barriers preventing AI for Social Impact projects from reaching deployment. Based on our FAccT 2026 paper."
-img: assets/img/facct2026_preview.png
+img:
 importance: 1
-category: research
+category: work
 ---
 
 Between 2018 and 2023, the number of AI for Social Impact (AI4SI) projects tripled from 170 to over 600. These are projects applying machine learning to problems like HIV prevention, maternal health, food insecurity, and disaster response — work explicitly oriented toward communities that large tech companies have little incentive to serve. Yet a striking majority of these projects never reach the communities they're designed for.
