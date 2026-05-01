@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Why AI Built to Help Gets Shelved"
-description: "A blog post on the barriers preventing AI for Social Impact projects from reaching deployment."
+description: "A blog post on the barriers preventing AI for Social Impact projects from reaching deployment. Based on our FAccT 2026 paper."
 img:
 importance: 1
 category: work
@@ -34,9 +34,9 @@ A recent [study](https://www.mckinsey.com/~/media/mckinsey/business%20functions/
 
 So what is going wrong? Our research set out to answer that question, not from the perspective of the nonprofits or communities being served (others have studied that), but from the researchers themselves. We interviewed 26 active AI4SI researchers, covering 38 projects across public health, conservation, social justice, and agriculture. Almost all of them had a project that never made it out of the lab. What we found was that deployment failure is rarely about the technology. It is about everything surrounding it.
 
-## The Gauntlet
+## Four Barriers, and You Have to Clear All of Them
 
-By reading through our interview transcripts and grouping what we heard into patterns, we identified four interconnected categories of challenges. Think of them as a gauntlet: a technically excellent project has to survive all four.
+By reading through our interview transcripts and grouping what we heard into patterns, we identified four categories of challenges. The brutal thing is that a project has to get through all four, not just one. Getting the technology right is only the beginning.
 
 <div class="row mt-4 mb-2">
   <div class="col-sm-12">
@@ -74,7 +74,7 @@ By reading through our interview transcripts and grouping what we heard into pat
       <text x="580" y="114" font-family="sans-serif" font-size="10" fill="#FDD5C8" text-anchor="middle">Data access</text>
       <text x="580" y="129" font-family="sans-serif" font-size="10" fill="#FDD5C8" text-anchor="middle">Scaling up</text>
       <text x="580" y="144" font-family="sans-serif" font-size="10" fill="#FDD5C8" text-anchor="middle">Keeping it running</text>
-      <text x="340" y="186" font-family="sans-serif" font-size="10.5" fill="#8096AE" text-anchor="middle" font-style="italic">Each barrier must be cleared for a project to reach deployment. Most don't make it through all four.</text>
+      <text x="340" y="186" font-family="sans-serif" font-size="10.5" fill="#8096AE" text-anchor="middle" font-style="italic">A project has to get through all four. Most don't.</text>
     </svg>
     <p class="text-center" style="font-size:0.85rem;color:#666;margin-top:0.5rem;"><em>Four barriers that stood between a working AI system and the communities it was built to serve, drawn from interviews with 26 researchers across 38 projects.</em></p>
   </div>
@@ -141,7 +141,7 @@ Our participants were not only documenting failure. Many had found things that g
 
 The strategy mentioned most often was what several researchers called the **"quick win."** In the early weeks of a new collaboration, before any serious technical work begins, prioritize delivering something immediately useful to the partner. A visualization of their own data. A short analysis answering a question they have been sitting on. Something that shows you understand their work, demonstrates your intentions are good, and gives them a reason to keep showing up to meetings. It builds credibility, and it sharpens your own understanding of what actually needs solving.
 
-Working through **go-betweens** dramatically accelerated deployment in several cases. These are researchers from social work, public health, or medicine who already have long-standing relationships with partner organizations. They know the right people, understand the institutional culture, and can vouch for the research team in ways that no cold email can replicate. One participant described a collaboration where a social work research team handled all partner-facing interactions while the AI team focused on the technical work. The combination got a system deployed that likely would not have made it otherwise.
+Working with **intermediaries** dramatically accelerated deployment in several cases. These are researchers from social work, public health, or medicine who already have long-standing relationships with partner organizations. They know the right people, understand the institutional culture, and can vouch for the research team in ways that no cold email can replicate. One participant described a collaboration where a social work research team handled all partner-facing interactions while the AI team focused on the technical work. The combination got a system deployed that likely would not have made it otherwise.
 
 The tradeoff is worth naming: this creates a two-tier structure where well-connected researchers can move faster and reach more partners, while newer researchers without those networks find themselves excluded from conversations that run on pre-existing trust. That is a problem worth fixing at the field level, not just navigating around individually.
 
@@ -153,7 +153,7 @@ Some funding agencies are already experimenting with this. Programs like NSF CIV
 
 The communities that this research aims to serve, people experiencing homelessness, subsistence farmers, patients in under-resourced clinics, are not going to be served by large technology companies. Those communities are not profitable markets. AI built to help them requires researchers who are willing to do slow, hard, relationship-dependent work for modest academic reward. It requires partners who are willing to invest time they do not have. And it requires institutions and funders to value outcomes that do not fit neatly into a publication count.
 
-The problems we document in this paper are not new to anyone working in this field. But they have rarely been laid out systematically from the researcher's own perspective. We hope that naming the gauntlet clearly makes it slightly easier to navigate, and that the AI systems built to help people actually get to do so.
+The problems we document in this paper are not new to anyone working in this field. But they have rarely been laid out systematically from the researcher's own perspective. We hope that naming them clearly makes it slightly easier to navigate, and that the AI systems built to help people actually get to do so.
 
 ---
 
