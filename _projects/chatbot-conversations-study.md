@@ -290,7 +290,7 @@ html[data-theme="dark"] .syc-chat .me { color: #10162A; }
 <!-- ===================== CLOSING CTA ===================== -->
 <section class="syc-end">
   <h2>Ready to take part?</h2>
-  <p>It takes about <span class="todo">30 minutes</span>, and you'll receive <span class="paid"><span class="todo">$10</span></span> for completing it. Questions first? Email <a href="mailto:adity@psu.edu">CONTACT_EMAIL</a>.</p>
+  <p>It takes about <span class="todo">30 minutes</span>, and you'll receive <span class="paid"><span class="todo">$10</span></span> for completing it. Questions first? Email <a href="mailto:adity@psu.edu">adity [at] psu [dot] edu</a>.</p>
   <a class="syc-btn" href="https://pennstate.qualtrics.com/jfe/form/SV_0uLXRTukNBcAox8" target="_blank" rel="noopener">Take the survey</a>
 </section>
 <p class="syc-meta">Run by <strong>Aditya Majumdar</strong> and <strong>Prof. Sarah Rajtmajer</strong> in the <span class="todo">Rajtmajer Lab</span>, College of Information Sciences and Technology, Penn State.</p>
