@@ -127,8 +127,8 @@ html[data-theme="dark"] .syc-chat .me { color: #10162A; }
     <h1>Do you vent to chatbots?</h1>
     <p class="lede">If you've ever asked ChatGPT, Claude, or Gemini for advice about a friend, partner, coworker, or family member, we'd like to learn from your experience.</p>
     <div class="syc-pay">
-      <span class="amt"><span class="todo">$10</span></span>
-      <span class="what"><b>This is a paid study.</b>About <span class="todo">30 minutes</span>, online, paid as a <span class="todo"> amazon gift card</span>.</span>
+      <span class="amt">$10</span>
+      <span class="what"><b>This is a paid study.</b>About 30 minutes, online, paid as a amazon gift card.</span>
     </div>
     <a class="syc-btn" href="https://pennstate.qualtrics.com/jfe/form/SV_0uLXRTukNBcAox8" target="_blank" rel="noopener">Take the survey</a>
   </div>
@@ -150,11 +150,11 @@ html[data-theme="dark"] .syc-chat .me { color: #10162A; }
 <!-- ===================== STEPS ===================== -->
 <h2>What you'll do</h2>
 <ol class="syc-steps">
-  <li><span class="d">You need to be <span class="todo">18 or older</span> and have used an AI chatbot to talk about a situation with another person. <span class="todo">You are willing to download our custom built chrome extension. </span></span></li>
-  <li><span class="t">Install our Chrome extension</span><span class="d">The <strong>LLM Chat Exporter</strong> is a free extension from the <a href="CHROME_STORE_LINK" target="_blank" rel="noopener">Chrome Web Store</a>. It takes about a minute to set up.</span></li>
-  <li><span class="t">Export a conversation and redact anything you want</span><span class="d">Open a past chatbot conversation, export it with the extension, and <strong>black out any message or detail</strong> you'd rather keep private, like names or places. <span class="todo">You are expected to upload atleast 3 conversations, but can upload upto 10 conversations.</span></span></li>
+  <li><span class="d">You need to be 18 or older residing in the US and have used an AI chatbot to talk about your interperpersonal situations. Furthermore, you are willing to download our custom built chrome extension. </span></li>
+  <li><span class="t">Install our Chrome extension</span><span class="d">The <strong>LLM Chat Exporter</strong> is a free extension from the <a href="https://chromewebstore.google.com/detail/cngpeopmmpmnkdkjgnpbdkgakmfjohcp?utm_source=item-share-cb" target="_blank" rel="noopener">Chrome Web Store</a>. It takes about a minute to set up.</span></li>
+  <li><span class="t">Export a conversation and redact anything you want</span><span class="d">Open a past chatbot conversation, export it with the extension, and <strong>black out any message or detail</strong> you'd rather keep private, like names or places. You are expected to upload atleast 3 conversations, but can upload upto 10 conversations.</span></li>
   <li><span class="t">Upload the file and answer the survey</span><span class="d">You upload the file yourself, then answer questions about your chatbot use, your relationships, and how you've been feeling lately.</span></li>
-  <li><span class="t">Get paid</span><span class="d">You'll receive <span class="paid"><span class="todo">$10</span></span> as a <span class="todo"> amazon gift card</span> within <span class="todo">5 business days</span>. Afterward, you can uninstall the extension.</span></li>
+  <li><span class="t">Get paid</span><span class="d">You'll receive <span class="paid">$10</span> as a amazon gift card within 5 business days. Afterward, you can uninstall the extension.</span></li>
 </ol>
 
 <!-- ===================== EXTENSION ===================== -->
@@ -163,7 +163,7 @@ html[data-theme="dark"] .syc-chat .me { color: #10162A; }
 <div class="syc-two">
   <div>
     <p>Chatbot sites don't make it easy to save a full conversation in a clean, readable form. The <strong>LLM Chat Exporter</strong> is a <strong>formatting tool that runs only on your computer</strong>. It turns a conversation on your screen into a file you can review, redact, and then choose to upload.</p>
-    <p>It works with <span class="todo">ChatGPT, Claude, Gemini</span> in the Chrome browser on a computer.</p>
+    <p>It works with ChatGPT, Claude, and Gemini in the Chrome browser on a computer.</p>
   </div>
   <figure>
     <svg viewBox="0 0 420 300" role="img" aria-labelledby="ext-t" style="width:100%;height:auto;">
@@ -247,11 +247,11 @@ html[data-theme="dark"] .syc-chat .me { color: #10162A; }
   <dt>What we collect</dt>
   <dd>Your survey answers and the conversation file(s) you upload, <strong>after your redactions</strong>, linked by a participant ID.</dd>
   <dt>Your identity</dt>
-  <dd>Your name isn't attached to your responses. <span class="todo">We only ask for your email to send you the amazon giftcard and if you opt in for our optional interview.</span></dd>
+  <dd>Your name isn't attached to your responses. We only ask for your email to send you the amazon giftcard and if you opt in for our optional interview.</dd>
   <dt>Where it's stored</dt>
-  <dd><span class="todo">All your information is stored in Qualtrics, a Penn State-approved secure storage system.</span></dd>
+  <dd>All your information is stored in Qualtrics, a Penn State-approved secure storage system.</dd>
   <dt>Who can see it</dt>
-  <dd>Only the study's research team. In papers and talks, we report <strong>patterns across many people</strong>. <span class="todo">State whether short de-identified excerpts may be quoted.</span></dd>
+  <dd>Only the study's research team. In papers and talks, we report <strong>patterns across many people</strong>. State whether short de-identified excerpts may be quoted.</dd>
   <dt>Changing your mind</dt>
   <dd>Taking part is <strong>completely voluntary</strong>. You can stop at any time.</dd>
 </dl>
@@ -290,8 +290,8 @@ html[data-theme="dark"] .syc-chat .me { color: #10162A; }
 <!-- ===================== CLOSING CTA ===================== -->
 <section class="syc-end">
   <h2>Ready to take part?</h2>
-  <p>It takes about <span class="todo">30 minutes</span>, and you'll receive <span class="paid"><span class="todo">$10</span></span> for completing it. Questions first? Email <a href="mailto:adity@psu.edu">adity [at] psu [dot] edu</a>.</p>
+  <p>It takes about 30 minutes, and you'll receive <span class="paid">$10</span> for completing it. Questions first? Email <a href="mailto:adity@psu.edu">adity [at] psu [dot] edu</a>.</p>
   <a class="syc-btn" href="https://pennstate.qualtrics.com/jfe/form/SV_0uLXRTukNBcAox8" target="_blank" rel="noopener">Take the survey</a>
 </section>
-<p class="syc-meta">Run by <strong>Aditya Majumdar</strong> and <strong>Prof. Sarah Rajtmajer</strong> in the <span class="todo">Rajtmajer Lab</span>, College of Information Sciences and Technology, Penn State.</p>
+<p class="syc-meta">Run by <strong>Aditya Majumdar</strong> and <strong>Prof. Sarah Rajtmajer</strong> in the Rajtmajer Lab, College of Information Sciences and Technology, Penn State.</p>
 </div>
