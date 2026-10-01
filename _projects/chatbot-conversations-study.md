@@ -130,7 +130,7 @@ html[data-theme="dark"] .syc-chat .me { color: #10162A; }
       <span class="amt">$10</span>
       <span class="what"><b>This is a paid study.</b>About 30 minutes, online, paid as a amazon gift card.</span>
     </div>
-    <a class="syc-btn" href="https://pennstate.qualtrics.com/jfe/form/SV_0uLXRTukNBcAox8" target="_blank" rel="noopener">Take the survey</a>
+    <a class="syc-btn" href="https://pennstate.qualtrics.com/jfe/form/SV_0uLXRTukNBcAox8" target="_blank" rel="noopener">Start the study</a>
   </div>
   <div class="syc-chat" aria-hidden="true">
     <div class="b me b1">She ignored me in front of the whole team. Am I wrong for being upset?</div>
@@ -291,7 +291,7 @@ html[data-theme="dark"] .syc-chat .me { color: #10162A; }
 <section class="syc-end">
   <h2>Ready to take part?</h2>
   <p>It takes about 30 minutes, and you'll receive <span class="paid">$10</span> for completing it. Questions first? Email <a href="mailto:adity@psu.edu">adity [at] psu [dot] edu</a>.</p>
-  <a class="syc-btn" href="https://pennstate.qualtrics.com/jfe/form/SV_0uLXRTukNBcAox8" target="_blank" rel="noopener">Take the survey</a>
+  <a class="syc-btn" href="https://pennstate.qualtrics.com/jfe/form/SV_0uLXRTukNBcAox8" target="_blank" rel="noopener">Start the study</a>
 </section>
 <p class="syc-meta">Run by <strong>Aditya Majumdar</strong> and <strong>Prof. Sarah Rajtmajer</strong> in the Rajtmajer Lab, College of Information Sciences and Technology, Penn State.</p>
 </div>
