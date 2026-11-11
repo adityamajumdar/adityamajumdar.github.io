@@ -3,7 +3,7 @@ layout: page
 title: "Mental Health Effects of AI Sycophancy"
 description: "A paid Penn State study on how AI chatbots respond when people talk through conflicts with others. What's involved, how our Chrome extension works, and how your data is handled."
 img: # assets/img/projects/chatbot-study.png  
-importance: 1
+importance: 2
 category: work
 ---
 
