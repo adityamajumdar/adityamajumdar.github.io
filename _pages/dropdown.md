@@ -6,5 +6,5 @@ nav_order: 8
 dropdown: true
 children:
   - title: CV
-    permalink: /assets/pdf/CV_Aditya_Majumdar.pdf
+    permalink: /assets/pdf/CV_aditya_majumdar_updated.pdf
 ---
