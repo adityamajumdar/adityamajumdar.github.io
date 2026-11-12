@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2026-11-11 12:00:00-0500
+date: 2025-11-06 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Our paper on pedagogical friction in password creation was accepted at the <a href="https://cset26.isi.edu/">IEEE ACSAC Workshop on Cyber Security Experimentation and Test (CSET)</a>! Joint work with Qian Ma, Sarah Rajtmajer, Brett Frischmann, and our collaborators.
+Attending EAAMO'25 in Pittsburgh!
